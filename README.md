@@ -8,6 +8,6 @@
 #### RESULTS ON CLOSED DATA
 <img width="773" alt="image" src="https://github.com/user-attachments/assets/dbf5d5a1-2d91-4b23-a6fb-ce8cf5eb6c44">
 
- ### FINAL RESULTS:
+ ### FINAL RESULTS (We are team 28005):
  <img width="1303" alt="image" src="https://github.com/user-attachments/assets/3ec02a77-afaf-4c88-9b45-2fd88dea32d5">
 
